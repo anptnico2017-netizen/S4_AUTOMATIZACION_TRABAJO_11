@@ -1,6 +1,6 @@
-package Automatizacion;
+package DIseno;
 
-public class Todo {
+public class Automatizacion {
     String nombre;
     String tipo;
     private static int contador = 0;
